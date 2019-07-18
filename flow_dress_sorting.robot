@@ -8,14 +8,12 @@ Sorting by price
     เข้า web หน้าแรก
     เข้าไปยังหน้า summer dress
     ทำการเลือก sort ด้วย price จากแพงไปถูก
-    ผลการทำงานต้องแสดงผลจากแพงไปถูก
 
 Sorting by price 02
     [Tags]  done  sprint1
     เข้า web หน้าแรก
     เข้าไปยังหน้า summer dress
     ทำการเลือก sort ด้วย price จากแพงไปถูก
-    ผลการทำงานต้องแสดงผลจากแพงไปถูก
 
 *** Keywords ***
 เข้า web หน้าแรก
