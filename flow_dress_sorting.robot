@@ -14,10 +14,10 @@ Sorting by price
     welcome.Open with selenium grid
 
 ผลการทำงานต้องแสดงผลจากแพงไปถูก
-    catalog.Choose Summer Dresses
+    catalog.Check sorted by high price
 
 ทำการเลือก sort ด้วย price จากแพงไปถูก
-    catalog.Choose Summer Dresses
+    catalog.Sort by high price
 
 เข้าไปยังหน้า summer dress
     welcome.Choose menu Dresses
