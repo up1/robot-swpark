@@ -9,15 +9,9 @@ Sorting by price
     เข้าไปยังหน้า summer dress
     ทำการเลือก sort ด้วย price จากแพงไปถูก
 
-Sorting by price 02
-    [Tags]  done  sprint1
-    เข้า web หน้าแรก
-    เข้าไปยังหน้า summer dress
-    ทำการเลือก sort ด้วย price จากแพงไปถูก
-
 *** Keywords ***
 เข้า web หน้าแรก
-    welcome.Open
+    welcome.Open with selenium grid
 
 ผลการทำงานต้องแสดงผลจากแพงไปถูก
     catalog.Choose Summer Dresses
