@@ -12,6 +12,9 @@ Open with selenium grid
     ...  remote_url=http://localhost:4444/wd/hub
     ...  desired_capabilities=browserName:chrome
 
+Home
+    Go To   ${URL}
+
 Open
     Open Browser   ${URL}  
     ...  browser=${BROWSER}
