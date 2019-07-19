@@ -20,7 +20,7 @@
 							"pm.test(\"Your test name\", function () {",
 							"    var jsonData = pm.response.json();",
 							"    pm.expect(jsonData.length).to.eql(10);",
-							"    pm.expect(jsonData[0].username).to.eql(\"Bret\");",
+							"    pm.expect(jsonData[0].username).to.eql(\"Bret1\");",
 							"});"
 						],
 						"type": "text/javascript"
