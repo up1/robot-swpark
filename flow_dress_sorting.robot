@@ -18,8 +18,8 @@ Sorting by price 02
 
 *** Keywords ***
 เข้า web หน้าแรก
-    welcome.Open
-    # welcome.Open with selenium grid
+    # welcome.Open
+    welcome.Open with selenium grid
 
 ผลการทำงานต้องแสดงผลจากแพงไปถูก
     catalog.Check sorted by high price
